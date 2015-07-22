@@ -1,0 +1,1 @@
+This will be a Java based version of the SQLPlus tool supplied by Oracle. While Oracle will be the starting DBMS, eventually other DBMS should be possible as well.
